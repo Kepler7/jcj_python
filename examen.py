@@ -27,7 +27,7 @@ for o in range(3):
             print("respuesta Incorrecta")
     if not is_ok_tres:
         respuesta_tres = input("Cual es la capital de Jalisco? ")
-        if respuesta_tres.lower() == "guadalajara":
+        if respuesta_tres.lower() == "guadalajara linda":
             is_ok_tres = True
             contador += 1
             print("Respuesta Correcta")
