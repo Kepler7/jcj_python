@@ -4,7 +4,7 @@ is_ok_dos = False
 is_ok_tres = False
 is_complete = False
 contador = 0
-print("Bienvenido a tu Examen tienes 3 oportunidades")
+print("Bienvenido a tu Examen tienes 3 oportunidades!!!!!")
 for o in range(3):
     print(f"Esta es tu oportunidad {oportunidades}")
     if contador == 3:
