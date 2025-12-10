@@ -34,4 +34,4 @@ for o in range(3):
         else:
             print("respuesta Incorrecta")
     oportunidades += 1
-    print(f"campeon: ")
+    print(f"campeones: ")
